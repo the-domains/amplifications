@@ -1,7 +1,7 @@
 name: amplifications
 favicon: null
-layout_spectrum: 0.9972791348118335
-typography_spectrum: 0.014756252057850361
+layout_spectrum: 1
+typography_spectrum: 0.61234
 cta:
   domain: null
   bucket: null
